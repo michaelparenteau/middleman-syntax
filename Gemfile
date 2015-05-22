@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "middleman-core", "~> 4.0.0.alpha.6"
+gem "middleman-core", "~> 4.0.0.beta"
 
 # Specify your gem's dependencies in middleman-syntax.gemspec
 gemspec
